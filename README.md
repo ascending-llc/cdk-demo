@@ -88,3 +88,7 @@ or destroy all stack
 ```
 cdk destroy --all
 ```
+## Unit Test
+```
+python -m pytest
+```
